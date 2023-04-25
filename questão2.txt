@@ -1,0 +1,5 @@
+Importaria o modulo1.py utilizando o seguinte código:
+
+'from modulos import modulo1'
+
+essa linha importa o arquivo que está no diretório

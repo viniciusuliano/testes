@@ -1,0 +1,4 @@
+para importar o modulo bd.py nos modulos 1 e 2 de arquivos python, pode se utilizado o codigo abaixo:
+'from utils import bd'
+
+essa linha importa o arquivo bd.py dentro do diretório utils e faz com que todas os metódos e classes dentro dele estejam disponiveis
